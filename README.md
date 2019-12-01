@@ -8,7 +8,7 @@ Python3.6
 pandas, numpy, sklearn, lightgbm
 
 ## How to start
-You can produce the results by running every cells sequencely.
+You can produce the results by running every cell sequencely.
 
 ## Structure
 Every folder contains four files: 
